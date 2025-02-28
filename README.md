@@ -1,10 +1,4 @@
-# Aleo Adapters
-
-Aleo Wallet Adapters library is an easy to use, yet flexible and robust library of adapters for wallets such as: Leo, Fox, Soter, Puzzle
-
-This library allows you to simply import wallet adapters and conveniently integrate them into your project.
-
-The major part of the code is largely based on a great job done by [Aleo Name Service](https://github.com/S-T-Soft/aleo-name-service/) team
+# BatuK. Aleo Wallet Dapp.
 
 ## Quick Setup (using React UI)
 
